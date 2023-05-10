@@ -78,7 +78,7 @@ sequenceDiagram
 </style>
 
 ---
-transition: slide-left
+transition: slide-up
 level: 2
 ---
 

@@ -47,7 +47,7 @@ layout: default
 <Toc></Toc>
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 # Cos'è AJAX?
@@ -78,7 +78,7 @@ sequenceDiagram
 </style>
 
 ---
-transition: slide-up
+transition: slide-left
 level: 2
 ---
 
@@ -117,7 +117,7 @@ $.ajax({
 </style>
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 # Database
@@ -191,7 +191,7 @@ NoSql è un tipo di database che permette di archiviare e recuperare dati senza 
 - Non è possibile effettuare JOIN tra entità 
 
 ---
-transition: slide-up
+transition: slide-left
 level: 2
 ---
 

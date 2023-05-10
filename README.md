@@ -72,8 +72,8 @@ $.ajax({
 Un database è un archivio di dati che permette di organizzare, gestire e recuperare informazioni.
 
 ### Tipologie di database
-<li> <mdi-database /> SQL - Relazionale</li>
-<li> <ph-graph-bold />  NOSQL - Non relazionale </li>
+- <mdi-database /> SQL - Relazionale</li>
+- <ph-graph-bold />  NOSQL - Non relazionale </li>
 <br />
 <img src="https://cdn-3.backendless.com/wp-content/uploads/2021/12/SQL-vs-NoSQL-database-flexibility-1200x266.png"/>
 
